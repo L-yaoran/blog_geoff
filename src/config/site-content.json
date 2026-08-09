@@ -5,7 +5,7 @@
 		"username": "Geoffrey"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
+		"colorBrand": "#9284CC",
 		"colorPrimary": "#5B423F",
 		"colorSecondary": "#8b7667",
 		"colorBrandSecondary": "#eec25e",
@@ -15,9 +15,13 @@
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#383DD5",
+		"#41CE3F",
+		"#62C181",
+		"#3152A3",
+		"#7ED6CB",
+		"#4B8BC4",
+		"#834B47"
 	],
 	"artImages": [
 		{
