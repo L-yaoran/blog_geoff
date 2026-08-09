@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Geolib",
+		"description": "Geoffrey的个人博客，记录开发、探索、笔记、随笔。",
+		"username": "Geoffrey"
 	},
 	"theme": {
 		"colorBrand": "#2fcbe7",
@@ -45,16 +45,9 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/L-yaoran",
 			"label": "Github",
 			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
 		},
 		{
 			"id": "email",
@@ -62,6 +55,13 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1786289144866",
+			"type": "link",
+			"value": "https://v.douyin.com/nDNP3VZ_Sc0/ 7@4.com :1pm",
+			"label": "抖音",
+			"order": 3
 		}
 	],
 	"clockShowSeconds": false,
