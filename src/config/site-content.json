@@ -5,23 +5,22 @@
 		"username": "Geoffrey"
 	},
 	"theme": {
-		"colorBrand": "#9284CC",
-		"colorPrimary": "#5B423F",
-		"colorSecondary": "#8b7667",
-		"colorBrandSecondary": "#eec25e",
-		"colorBg": "#d4e8f3",
+		"colorBrand": "#35bfab",
+		"colorPrimary": "#334f52",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#1fc9e7",
+		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff99",
+		"colorCard": "#ffffff66",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#383DD5",
-		"#41CE3F",
-		"#62C181",
-		"#3152A3",
-		"#7ED6CB",
-		"#4B8BC4",
-		"#834B47"
+		"#EDDD62",
+		"#9EE7D1",
+		"#84D68A",
+		"#EDDD62",
+		"#88E6E5",
+		"#a7f3d0"
 	],
 	"artImages": [
 		{
@@ -66,6 +65,13 @@
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 3
+		},
+		{
+			"id": "button-1786290072440",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/74930569?spm_id_from=333.1007.0.0",
+			"label": "",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
