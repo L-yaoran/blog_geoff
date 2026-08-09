@@ -51,20 +51,20 @@
 			"type": "github",
 			"value": "https://github.com/L-yaoran",
 			"label": "Github",
-			"order": 3
+			"order": 1
+		},
+		{
+			"id": "button-1786289607361",
+			"type": "x",
+			"value": "https://x.com/Yaoran_Geoff",
+			"label": "",
+			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "liumingwei_geoff@163.com",
+			"value": "yysuni1001@gmail.com",
 			"label": "",
-			"order": 1
-		},
-		{
-			"id": "button-1786289144866",
-			"type": "link",
-			"value": "https://v.douyin.com/nDNP3VZ_Sc0/ 7@4.com :1pm",
-			"label": "抖音",
 			"order": 3
 		}
 	],
