@@ -46,31 +46,31 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/L-yaoran",
-			"label": "Github",
-			"order": 1
-		},
-		{
-			"id": "button-1786289607361",
-			"type": "x",
-			"value": "https://x.com/Yaoran_Geoff",
-			"label": "",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "yysuni1001@gmail.com",
 			"label": "",
-			"order": 3
+			"order": 1
 		},
 		{
 			"id": "button-1786290072440",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/74930569?spm_id_from=333.1007.0.0",
 			"label": "",
+			"order": 2
+		},
+		{
+			"id": "button-1786289607361",
+			"type": "x",
+			"value": "https://x.com/Yaoran_Geoff",
+			"label": "",
+			"order": 3
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/L-yaoran",
+			"label": "Github",
 			"order": 4
 		}
 	],
