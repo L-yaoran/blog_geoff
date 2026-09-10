@@ -1,23 +1,26 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "Geolib",
+		"description": "Geoffrey的个人博客，记录开发、探索、笔记、随笔。",
+		"username": "Geoff"
 	},
 	"theme": {
-		"colorBrand": "#2fcbe7",
-		"colorPrimary": "#5B423F",
-		"colorSecondary": "#8b7667",
-		"colorBrandSecondary": "#eec25e",
-		"colorBg": "#d4e8f3",
+		"colorBrand": "#35bfab",
+		"colorPrimary": "#334f52",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#1fc9e7",
+		"colorBg": "#eeeeee",
 		"colorBorder": "#ffffff",
-		"colorCard": "#ffffff99",
+		"colorCard": "#ffffff66",
 		"colorArticle": "#ffffffcc"
 	},
 	"backgroundColors": [
-		"#f7da3987",
-		"#8fdbe9",
-		"#fffef8"
+		"#EDDD62",
+		"#9EE7D1",
+		"#84D68A",
+		"#EDDD62",
+		"#88E6E5",
+		"#a7f3d0"
 	],
 	"artImages": [
 		{
@@ -33,7 +36,7 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -43,25 +46,32 @@
 	"currentBackgroundImageId": "",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
-			"order": 3
-		},
-		{
-			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
-			"order": 2
-		},
-		{
 			"id": "email",
 			"type": "email",
 			"value": "yysuni1001@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1786290072440",
+			"type": "bilibili",
+			"value": "https://space.bilibili.com/74930569?spm_id_from=333.1007.0.0",
+			"label": "",
+			"order": 2
+		},
+		{
+			"id": "button-1786289607361",
+			"type": "x",
+			"value": "https://x.com/Yaoran_Geoff",
+			"label": "",
+			"order": 3
+		},
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/L-yaoran",
+			"label": "Github",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
